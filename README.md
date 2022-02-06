@@ -1,4 +1,4 @@
-# MFGJ22_Twisted_Monkey
+# Twisted_Monkey
 Art assets for Twisted Monkey side scroller game;
 folders are created accordingly with types of assets including
 pc sprites/
