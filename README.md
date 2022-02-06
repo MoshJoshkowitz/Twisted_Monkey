@@ -1,6 +1,6 @@
 # Twisted_Monkey
-Art assets for Twisted Monkey side scroller game;
-folders are created accordingly with types of assets including
+Assets for Twisted Monkey side scroller game;
+folders are created accordingly with types of art assets including
 pc sprites/
 npc sprites/
 backgrounds/
