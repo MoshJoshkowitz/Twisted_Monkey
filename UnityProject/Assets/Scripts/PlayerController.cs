@@ -3,7 +3,8 @@ using System.Linq;
 using UnityEngine;
 
 namespace TarodevController
-{
+{/*
+
     public class PlayerController : MonoBehaviour, IPlayerController
     {
         // Public for external hooks
@@ -327,5 +328,5 @@ namespace TarodevController
         }
 
         #endregion
-    }
+    }*/
 }
